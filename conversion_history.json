@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2024-06-30 19:52:32",
+    "amount": 9000000.0,
+    "fromCurrency": "ARS",
+    "convertedAmount": 9873.000000000002,
+    "toCurrency": "USD"
+  },
+  {
+    "timestamp": "2024-06-30 19:52:51",
+    "amount": 9000000.0,
+    "fromCurrency": "ARS",
+    "convertedAmount": 9216.0,
+    "toCurrency": "EUR"
+  },
+  {
+    "timestamp": "2024-06-30 19:53:09",
+    "amount": 9000000.0,
+    "fromCurrency": "ARS",
+    "convertedAmount": 7805.34,
+    "toCurrency": "GBP"
+  }
+]
